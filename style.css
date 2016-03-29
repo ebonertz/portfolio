@@ -1,0 +1,174 @@
+body {
+  margin: 0px;
+  background: ;
+}
+
+header {
+  background-image: url('http://i.imgur.com/F3EHHV5.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+  font-family: 'Rambla', sans-serif;
+  text-align: center;
+  padding: 5em 15;
+  margin: 0px;
+  top: 55px;
+  position: relative;
+  color: #303030;
+}
+.masthead-heading1 {
+  padding: 2.5em;
+  margin-bottom: 1em;
+  margin-top: .5em;
+  text-align: center;
+  color: #eeeeee;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size:2.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #005;
+  text-transform: uppercase;
+}
+
+.masthead-heading3 {
+  margin-left: auto;
+  Margin-right: auto;
+  text-align:center;
+  color: #eeeeee;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 1.1em;
+  padding: 3em 0;
+  margin-bottom: 0.2em;
+  margin-top: 0.3em;
+  font-weight: 200;
+}
+
+.masthead-heading2 {
+  color: #303030;
+  text-align: center;
+  font-size: 2em
+  font-family: 'Helvetica', sans-serif;
+  padding: 2em 0;
+  margin-bottom: 0.1em;
+  margin-top: -1em;
+}
+
+.introduction-section {
+  background-color: grey;
+  margin-bottom: 5em;
+  margin-top: -15px;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-bottom: 5em;
+  font-family: 'Rambla', sans-serif;
+  font-size: 1.1em;
+  color: #303030;
+}
+.introduction-section > .project-bin {
+    width: 1000px;
+    border: 1px solid green;
+    text-align: center;
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+ a:visited {
+    color: green;
+}
+
+.projects-section > h4 {
+    display: inline;
+
+}
+
+.project-bin > h4 {
+    display: inline;
+}
+
+
+img {
+    width: 300px;
+    height: 200px;
+    display: inline;
+    border: 2px solid #555;
+}
+
+#code-pen-link {
+    text-align: center;
+    color: green;
+}
+
+.introduction-section > .project-bin > li{
+    max-width: 400px;
+}
+
+
+.questions-section {
+  margin: 2em;
+  margin-bottom:5em;
+  text-align: center;
+  margin-left: 5em;
+  margin-right: 5em;
+  font-family: 'Rambla', sans-serif;
+  color: #303030;
+}
+
+
+.content-footer{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0em;
+}
+
+ul {
+  list-style-type: none;
+  list-style-image: none
+}
+
+.social > li {
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+}
+
+li {
+  display: inline-block;
+
+}
+
+ul.social {
+  padding: 0;
+}
+
+.social > li >a  {
+ color: green;
+ font-family: 'Rambla', sans-serif;
+ font-size: 1.1em
+}
+
+.content-footer{
+  color:grey;
+  background-color: black;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 3em;
+  margin: 0em;
+  font-family: 'Rambla', sans-serif;
+  font-size: 1em
+}
+
+.Contactme-link{
+  color: green;
+  font-size: .8em;
+}
+
+.Contactme-link:hover{
+  color:light-blue;
+}
